@@ -77,7 +77,7 @@ Correct answer:
     8. и -> н йклмн   5
     9. р -> х стуфх   5
 
-Why wrong from test task?:
+Wrong test case from test task:
     1. П -> Х РСТУФХ  6
     2. р -> у сту     3
     3. и -> м йклм    4
